@@ -1,3 +1,3 @@
-.node_modules
+node_modules/
 
-/bootcamp4/node_modules
+/bootcamp4/node_modules/
